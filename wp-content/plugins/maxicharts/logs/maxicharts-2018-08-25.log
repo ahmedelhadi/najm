@@ -1,0 +1,991 @@
+2018-08-25 00:01:05,436 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:05,436 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:05,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:05,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:05,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:05,509 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:05,509 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:05,509 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:05,510 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:05,960 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:05,960 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:05,962 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:05,962 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:05,962 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:06,033 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:06,033 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:06,033 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:06,033 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:07,641 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:07,641 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:07,643 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:07,643 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:07,643 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:07,710 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:07,710 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:07,710 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:07,710 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:08,623 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:08,624 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:08,625 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:08,626 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:08,626 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:08,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:08,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:08,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:08,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:09,545 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:09,545 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:09,546 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:09,547 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:09,547 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:09,612 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:09,613 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:09,613 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:09,613 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:11,197 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:11,197 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:11,199 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:11,199 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:11,199 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:11,265 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:11,266 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:11,266 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:11,266 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:13,369 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:13,370 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:13,371 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:13,372 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:13,372 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:13,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:13,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:13,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:13,438 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:14,331 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:14,331 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:14,333 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:14,333 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:14,334 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:14,399 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:14,399 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:14,399 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:14,399 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:15,297 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:15,298 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:15,299 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:15,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:15,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:15,366 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:15,366 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:15,366 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:15,366 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 00:01:16,167 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 00:01:16,167 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 00:01:16,169 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 00:01:16,169 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 00:01:16,169 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 00:01:16,234 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 00:01:16,234 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 00:01:16,235 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 00:01:16,235 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 01:41:22,630 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 01:41:22,630 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 01:41:22,632 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 01:41:22,632 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 01:41:22,633 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 01:41:22,703 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 01:41:22,703 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 01:41:22,704 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 01:41:22,704 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 01:41:23,137 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 01:41:23,138 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 01:41:23,140 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 01:41:23,140 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 01:41:23,140 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 01:41:23,210 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 01:41:23,210 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 01:41:23,211 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 01:41:23,211 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 01:43:34,801 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 01:43:34,801 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 01:43:34,803 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 01:43:34,804 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 01:43:34,804 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 01:43:34,874 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 01:43:34,875 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 01:43:34,875 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 01:43:34,875 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 01:43:36,067 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 01:43:36,067 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 01:43:36,068 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 01:43:36,069 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 01:43:36,069 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 01:43:36,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 01:43:36,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 01:43:36,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 01:43:36,135 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 02:49:13,543 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 02:49:13,545 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 02:49:13,548 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 02:49:13,549 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 02:49:13,550 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 02:49:13,767 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 02:49:13,767 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 02:49:13,767 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 02:49:13,767 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 02:49:14,298 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 02:49:14,299 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 02:49:14,301 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 02:49:14,301 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 02:49:14,301 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 02:49:14,371 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 02:49:14,371 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 02:49:14,371 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 02:49:14,371 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 02:49:19,178 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 02:49:19,178 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 02:49:19,180 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 02:49:19,180 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 02:49:19,180 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 02:49:19,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 02:49:19,246 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 02:49:19,246 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 02:49:19,246 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 04:06:17,001 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 04:06:17,007 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 04:06:17,011 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 04:06:17,012 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 04:06:17,012 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 04:06:17,208 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 04:06:17,208 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 04:06:17,208 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 04:06:17,208 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 04:06:17,836 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 04:06:17,836 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 04:06:17,838 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 04:06:17,838 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 04:06:17,839 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 04:06:17,910 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 04:06:17,910 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 04:06:17,910 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 04:06:17,910 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 04:06:22,008 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 04:06:22,008 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 04:06:22,010 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 04:06:22,010 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 04:06:22,011 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 04:06:22,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 04:06:22,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 04:06:22,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 04:06:22,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 05:27:06,372 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 05:27:06,372 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 05:27:06,374 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 05:27:06,375 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 05:27:06,375 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 05:27:06,447 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 05:27:06,447 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 05:27:06,447 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 05:27:06,447 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 05:27:06,900 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 05:27:06,901 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 05:27:06,902 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 05:27:06,903 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 05:27:06,903 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 05:27:06,974 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 05:27:06,974 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 05:27:06,974 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 05:27:06,974 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 05:27:15,875 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 05:27:15,876 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 05:27:15,877 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 05:27:15,877 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 05:27:15,878 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 05:27:15,944 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 05:27:15,945 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 05:27:15,945 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 05:27:15,945 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 06:20:38,898 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 06:20:38,898 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 06:20:38,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 06:20:38,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 06:20:38,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 06:20:38,971 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 06:20:38,972 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 06:20:38,972 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 06:20:38,972 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 06:20:39,339 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 06:20:39,339 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 06:20:39,341 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 06:20:39,341 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 06:20:39,342 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 06:20:39,412 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 06:20:39,413 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 06:20:39,413 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 06:20:39,413 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 06:20:40,999 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 06:20:40,999 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 06:20:41,001 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 06:20:41,001 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 06:20:41,001 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 06:20:41,067 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 06:20:41,067 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 06:20:41,067 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 06:20:41,067 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 07:23:20,443 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 07:23:20,444 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 07:23:20,446 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 07:23:20,446 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 07:23:20,446 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 07:23:20,518 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 07:23:20,518 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 07:23:20,518 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 07:23:20,518 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 07:23:20,962 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 07:23:20,963 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 07:23:20,964 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 07:23:20,965 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 07:23:20,965 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 07:23:21,038 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 07:23:21,038 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 07:23:21,038 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 07:23:21,038 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 07:44:04,156 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 07:44:04,156 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 07:44:04,158 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 07:44:04,158 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 07:44:04,159 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 07:44:04,229 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 07:44:04,229 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 07:44:04,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 07:44:04,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:06,217 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:06,217 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:06,219 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:06,219 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:06,219 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:06,291 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:06,291 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:06,291 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:06,291 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:06,687 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:06,687 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:06,689 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:06,689 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:06,689 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:06,760 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:06,760 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:06,760 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:06,761 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:08,940 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:08,941 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:08,942 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:08,943 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:08,943 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:09,008 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:09,008 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:09,008 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:09,008 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:10,381 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:10,381 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:10,383 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:10,383 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:10,384 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:10,450 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:10,450 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:10,450 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:10,450 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:11,752 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:11,752 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:11,753 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:11,754 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:11,754 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:11,819 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:11,819 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:11,819 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:11,820 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:13,203 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:13,204 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:13,205 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:13,206 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:13,206 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:13,272 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:13,272 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:13,272 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:13,272 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:15,230 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:15,231 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:15,232 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:15,233 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:15,233 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:15,299 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:15,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:15,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:15,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:16,699 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:16,700 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:16,701 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:16,702 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:16,702 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:16,768 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:16,768 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:16,768 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:16,768 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:18,172 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:18,173 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:18,174 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:18,175 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:18,175 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:18,241 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:18,241 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:18,241 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:18,242 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 08:49:19,567 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 08:49:19,568 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 08:49:19,569 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 08:49:19,570 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 08:49:19,570 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 08:49:19,636 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 08:49:19,636 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 08:49:19,636 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 08:49:19,636 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:10:01,434 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:10:01,435 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:10:01,436 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:10:01,437 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:10:01,437 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:10:01,529 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:10:01,530 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:10:01,530 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:10:01,530 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:10:05,242 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:10:05,243 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:10:05,244 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:10:05,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:10:05,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:10:05,309 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:10:05,310 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:10:05,310 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:10:05,310 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:11:21,569 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:11:21,570 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:11:21,572 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:11:21,572 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:11:21,572 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:11:21,643 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:11:21,643 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:11:21,643 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:11:21,644 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:11:22,398 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:11:22,398 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:11:22,400 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:11:22,400 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:11:22,401 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:11:22,468 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:11:22,468 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:11:22,468 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:11:22,468 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:11:24,524 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:11:24,524 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:11:24,526 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:11:24,526 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:11:24,526 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:11:24,591 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:11:24,591 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:11:24,591 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:11:24,591 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:11:43,041 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:11:43,042 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:11:43,044 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:11:43,044 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:11:43,044 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:11:43,116 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:11:43,116 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:11:43,116 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:11:43,116 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:52:53,654 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:52:53,654 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:52:53,656 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:52:53,656 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:52:53,656 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:52:53,729 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:52:53,730 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:52:53,730 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:52:53,730 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:52:54,249 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:52:54,249 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:52:54,251 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:52:54,251 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:52:54,252 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:52:54,323 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:52:54,323 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:52:54,323 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:52:54,323 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:52:55,975 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:52:55,976 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:52:55,977 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:52:55,978 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:52:55,978 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:52:56,044 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:52:56,044 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:52:56,045 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:52:56,045 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:52:57,326 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:52:57,327 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:52:57,328 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:52:57,329 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:52:57,329 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:52:57,395 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:52:57,395 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:52:57,395 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:52:57,395 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:52:58,701 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:52:58,701 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:52:58,703 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:52:58,703 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:52:58,704 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:52:58,768 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:52:58,768 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:52:58,769 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:52:58,769 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:53:00,162 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:53:00,162 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:53:00,164 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:53:00,164 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:53:00,164 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:53:00,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:53:00,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:53:00,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:53:00,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:53:02,150 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:53:02,150 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:53:02,152 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:53:02,152 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:53:02,153 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:53:02,218 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:53:02,218 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:53:02,218 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:53:02,218 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:53:03,624 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:53:03,624 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:53:03,626 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:53:03,626 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:53:03,626 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:53:03,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:53:03,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:53:03,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:53:03,692 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:53:05,133 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:53:05,133 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:53:05,135 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:53:05,135 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:53:05,135 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:53:05,200 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:53:05,200 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:53:05,201 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:53:05,201 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 09:53:06,925 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 09:53:06,926 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 09:53:06,927 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 09:53:06,927 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 09:53:06,928 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 09:53:06,992 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 09:53:06,993 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 09:53:06,993 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 09:53:06,993 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:09,808 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:09,809 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:09,811 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:09,811 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:09,811 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:09,882 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:09,882 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:09,882 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:09,883 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:11,703 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:11,704 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:11,705 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:11,706 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:11,706 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:11,772 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:11,772 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:11,772 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:11,772 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:13,076 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:13,076 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:13,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:13,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:13,078 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:13,143 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:13,143 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:13,143 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:13,143 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:14,502 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:14,503 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:14,504 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:14,505 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:14,505 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:14,570 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:14,570 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:14,570 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:14,570 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:15,858 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:15,858 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:15,860 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:15,860 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:15,861 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:15,926 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:15,926 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:15,927 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:15,927 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:17,696 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:17,696 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:17,698 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:17,698 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:17,698 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:17,763 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:17,763 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:17,763 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:17,764 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:19,163 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:19,163 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:19,165 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:19,165 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:19,165 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:19,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:19,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:19,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:19,230 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:20,529 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:20,530 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:20,531 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:20,532 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:20,532 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:20,597 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:20,597 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:20,597 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:20,597 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:30:21,888 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:30:21,888 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:30:21,890 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:30:21,890 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:30:21,891 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:30:21,955 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:30:21,955 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:30:21,956 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:30:21,956 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 10:34:17,527 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 10:34:17,527 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 10:34:17,529 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 10:34:17,530 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 10:34:17,530 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 10:34:17,600 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 10:34:17,600 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 10:34:17,600 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 10:34:17,601 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 11:19:36,224 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 11:19:36,224 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 11:19:36,226 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 11:19:36,227 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 11:19:36,227 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 11:19:36,298 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 11:19:36,298 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 11:19:36,298 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 11:19:36,299 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 11:19:36,746 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 11:19:36,746 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 11:19:36,748 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 11:19:36,749 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 11:19:36,749 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 11:19:36,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 11:19:36,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 11:19:36,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 11:19:36,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 11:19:38,488 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 11:19:38,489 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 11:19:38,490 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 11:19:38,490 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 11:19:38,491 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 11:19:38,556 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 11:19:38,556 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 11:19:38,557 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 11:19:38,557 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 11:37:15,152 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 11:37:15,153 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 11:37:15,155 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 11:37:15,155 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 11:37:15,155 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 11:37:15,226 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 11:37:15,226 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 11:37:15,226 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 11:37:15,226 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 11:37:15,565 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 11:37:15,566 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 11:37:15,568 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 11:37:15,568 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 11:37:15,568 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 11:37:15,639 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 11:37:15,639 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 11:37:15,639 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 11:37:15,639 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:31,292 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:31,293 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:31,294 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:31,295 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:31,295 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:31,367 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:31,367 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:31,368 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:31,368 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:31,815 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:31,815 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:31,817 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:31,817 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:31,818 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:31,889 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:31,889 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:31,889 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:31,889 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:33,057 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:33,058 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:33,059 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:33,060 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:33,060 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:33,127 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:33,127 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:33,127 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:33,127 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:33,993 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:33,994 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:33,995 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:33,996 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:33,996 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:34,062 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:34,063 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:34,063 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:34,063 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:34,936 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:34,936 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:34,938 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:34,938 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:34,939 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:35,003 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:35,003 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:35,003 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:35,004 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:35,830 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:35,830 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:35,832 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:35,832 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:35,833 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:35,899 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:35,899 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:35,899 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:35,899 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:36,944 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:36,944 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:36,946 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:36,946 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:36,947 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:37,012 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:37,012 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:37,012 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:37,012 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:37,755 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:37,756 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:37,757 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:37,758 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:37,758 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:37,823 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:37,823 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:37,823 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:37,823 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:38,694 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:38,694 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:38,696 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:38,696 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:38,697 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:38,762 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:38,762 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:38,762 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:38,762 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 14:46:39,724 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 14:46:39,724 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 14:46:39,726 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 14:46:39,726 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 14:46:39,726 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 14:46:39,794 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 14:46:39,794 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 14:46:39,794 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 14:46:39,794 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 15:24:17,667 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 15:24:17,668 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 15:24:17,670 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 15:24:17,670 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 15:24:17,670 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 15:24:17,742 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 15:24:17,743 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 15:24:17,743 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 15:24:17,743 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 15:24:18,111 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 15:24:18,112 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 15:24:18,113 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 15:24:18,114 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 15:24:18,114 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 15:24:18,186 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 15:24:18,186 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 15:24:18,186 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 15:24:18,186 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 16:49:44,753 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 16:49:44,754 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 16:49:44,755 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 16:49:44,756 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 16:49:44,756 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 16:49:44,828 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 16:49:44,828 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 16:49:44,828 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 16:49:44,828 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 16:49:45,208 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 16:49:45,208 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 16:49:45,210 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 16:49:45,211 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 16:49:45,211 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 16:49:45,284 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 16:49:45,284 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 16:49:45,284 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 16:49:45,284 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 16:50:10,703 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 16:50:10,703 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 16:50:10,705 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 16:50:10,705 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 16:50:10,706 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 16:50:10,777 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 16:50:10,777 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 16:50:10,777 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 16:50:10,777 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 16:50:15,938 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 16:50:15,938 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 16:50:15,940 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 16:50:15,941 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 16:50:15,941 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 16:50:16,006 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 16:50:16,006 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 16:50:16,007 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 16:50:16,007 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 16:50:21,472 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 16:50:21,472 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 16:50:21,474 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 16:50:21,474 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 16:50:21,474 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 16:50:21,540 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 16:50:21,540 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 16:50:21,540 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 16:50:21,540 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 17:50:26,168 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 17:50:26,168 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 17:50:26,170 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 17:50:26,170 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 17:50:26,171 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 17:50:26,244 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 17:50:26,244 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 17:50:26,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 17:50:26,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 17:50:26,626 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 17:50:26,626 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 17:50:26,628 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 17:50:26,628 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 17:50:26,628 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 17:50:26,700 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 17:50:26,700 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 17:50:26,701 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 17:50:26,701 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 17:59:55,879 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 17:59:55,880 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 17:59:55,882 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 17:59:55,882 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 17:59:55,882 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 17:59:55,955 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 17:59:55,955 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 17:59:55,955 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 17:59:55,956 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:00:50,059 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:00:50,060 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:00:50,062 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:00:50,062 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:00:50,062 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:00:50,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:00:50,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:00:50,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:00:50,134 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:00:52,050 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:00:52,050 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:00:52,052 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:00:52,052 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:00:52,052 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:00:52,118 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:00:52,118 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:00:52,118 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:00:52,118 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:00:54,177 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:00:54,177 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:00:54,179 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:00:54,180 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:00:54,180 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:00:54,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:00:54,245 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:00:54,246 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:00:54,246 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:00:55,554 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:00:55,554 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:00:55,556 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:00:55,556 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:00:55,557 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:00:55,622 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:00:55,622 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:00:55,623 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:00:55,623 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:00:56,832 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:00:56,832 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:00:56,834 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:00:56,834 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:00:56,834 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:00:56,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:00:56,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:00:56,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:00:56,900 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:00:58,553 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:00:58,553 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:00:58,555 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:00:58,555 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:00:58,556 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:00:58,620 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:00:58,620 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:00:58,621 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:00:58,621 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:01:00,115 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:01:00,115 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:01:00,117 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:01:00,117 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:01:00,117 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:01:00,182 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:01:00,183 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:01:00,183 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:01:00,183 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:01:01,234 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:01:01,234 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:01:01,236 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:01:01,236 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:01:01,237 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:01:01,301 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:01:01,301 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:01:01,302 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:01:01,302 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 18:01:02,355 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 18:01:02,355 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 18:01:02,357 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 18:01:02,357 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 18:01:02,357 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 18:01:02,423 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 18:01:02,423 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 18:01:02,423 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 18:01:02,423 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:35,467 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:35,468 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:35,470 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:35,470 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:35,470 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:35,543 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:35,544 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:35,544 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:35,544 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:38,891 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:38,892 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:38,893 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:38,894 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:38,894 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:38,961 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:38,961 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:38,962 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:38,962 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:40,321 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:40,321 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:40,323 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:40,323 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:40,324 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:40,390 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:40,390 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:40,390 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:40,390 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:41,679 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:41,679 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:41,681 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:41,681 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:41,682 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:41,747 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:41,747 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:41,748 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:41,748 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:42,962 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:42,963 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:42,964 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:42,965 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:42,965 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:43,030 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:43,030 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:43,031 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:43,031 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:44,716 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:44,717 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:44,718 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:44,719 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:44,719 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:44,785 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:44,786 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:44,786 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:44,786 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:46,166 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:46,166 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:46,168 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:46,168 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:46,168 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:46,234 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:46,234 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:46,234 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:46,235 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:47,595 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:47,595 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:47,596 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:47,597 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:47,597 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:47,662 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:47,662 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:47,663 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:47,663 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 19:17:50,645 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 19:17:50,645 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 19:17:50,646 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 19:17:50,647 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 19:17:50,647 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 19:17:50,713 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 19:17:50,713 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 19:17:50,713 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 19:17:50,713 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 20:08:25,226 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 20:08:25,226 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 20:08:25,228 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 20:08:25,228 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 20:08:25,229 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 20:08:25,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 20:08:25,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 20:08:25,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 20:08:25,300 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 2018-08-25 20:08:25,747 MAXICHARTSAPI DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_utils.php:95 Logger up!...
+ 2018-08-25 20:08:25,747 GF DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts-gravity-forms-source-add-on/mcharts_gf_source_add_on.php:45 Adding Module : maxicharts_gravity_forms
+ 2018-08-25 20:08:25,749 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-08-25 20:08:25,749 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-08-25 20:08:25,749 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-08-25 20:08:25,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:132 Init maxicharts_reports
+ 2018-08-25 20:08:25,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:69 Construct maxicharts_reports
+ 2018-08-25 20:08:25,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:139 color sets : 6
+ 2018-08-25 20:08:25,821 MAXICHARTS DEBUG /mnt/volume-nyc1-03/najmgiantpace/public_html/wp-content/plugins/maxicharts/maxicharts.php:141 color sets : 6
+ 
