@@ -20,16 +20,16 @@
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'najmgian_db' );
+define( 'DB_NAME', 'najm-db' );
 
 /** MySQL database username */
-define( 'DB_USER', 'najmgian_user' );
+define( 'DB_USER', 'shadi_root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'FARHAN987123' );
+define( 'DB_PASSWORD', 'ahmed123!@#' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'najm-db.database.windows.net' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
